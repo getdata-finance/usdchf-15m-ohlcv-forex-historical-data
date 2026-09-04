@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `15m` sample updated in sync
 
-> **Sample on GitHub** · `USDCHF_15m.csv` (3,698 rows, `2026-07-09` -> `2026-09-02`, 372.15 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/usdchf)** — **614,351** `15m` rows (full `1m`: 9,169,329), **11 timeframes**, `2001-11-28` -> `2026-09-02`.
+> **Sample on GitHub** · `USDCHF_15m.csv` (3,696 rows, `2026-07-09` -> `2026-09-02`, 372.01 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/usdchf)** — **614,351** `15m` rows (full `1m`: 9,147,305), **11 timeframes**, `2001-11-28` -> `2026-09-02`.
 
 ## Download sample
 
@@ -45,8 +45,8 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | US Dollar / Swiss Franc · Forex | US Dollar / Swiss Franc · Forex |
 | Timeframes | `15m` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 15m rows | 3,698 | **614,351** |
-| Size | 372.15 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/usdchf) |
+| 15m rows | 3,696 | **614,351** |
+| Size | 372.01 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/usdchf) |
 | Period | `2026-07-09` -> `2026-09-02` | `2001-11-28` -> `2026-09-02` |
 | File | `USDCHF_15m.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/usdchf) |
 | Coverage report | — | [USDCHF coverage](https://getdata.finance/coverage/usdchf) |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`USDCHF_15m.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-09T13:45:00+00:00 | 0.79402 | 0.79418 | 0.79369 | 0.79369 | 2065 |
-| 2026-07-09T14:00:00+00:00 | 0.79369 | 0.79369 | 0.79295 | 0.79346 | 2912 |
 | 2026-07-09T14:15:00+00:00 | 0.79346 | 0.79378 | 0.79337 | 0.79357 | 2231 |
 | 2026-07-09T14:30:00+00:00 | 0.79357 | 0.79395 | 0.79343 | 0.79384 | 2201 |
 | 2026-07-09T14:45:00+00:00 | 0.79384 | 0.79425 | 0.79359 | 0.79365 | 3302 |
+| 2026-07-09T15:00:00+00:00 | 0.79365 | 0.79404 | 0.79333 | 0.79378 | 2314 |
+| 2026-07-09T15:15:00+00:00 | 0.79378 | 0.79401 | 0.79345 | 0.79359 | 1667 |
 
 **Last rows**
 
